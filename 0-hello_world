@@ -1,3 +1,1 @@
-cat > 0-hello_world
- Hello, World
-c-d
+#!.bin/bash
